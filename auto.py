@@ -21,10 +21,8 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 
 
-#tlgm_token = '2144408915:AAEfc_AYw6jGYlGMQQ6P-LrZUQicT2w4_nc'  # 텔레그램 봇 토큰 입력
-#tlgm_id = '1712121399'  # 텔레그램 챗 아이디 입력
-#tlgm_token = '5063366812:AAExZXxI-8Y4Aa7m2M9bEIUHo_ELMjXiHVw'
-#tlgm_id = '-1001179566550'
+#tlgm_token = ''  # 텔레그램 봇 토큰 입력
+#tlgm_id = ''  # 텔레그램 챗 아이디 입력
 #bot = telegram.Bot(token=tlgm_token)  # 봇 채팅방 접속
 
 # 티커 조회
